@@ -9,3 +9,5 @@ Esse projeto foi feito seguindo um vídeo do Traversy Media, e para facilitar o 
 Digite ```npm i``` na pasta raiz
 
 Digite ```npm i``` na pasta client
+
+Digite ```npm run dev``` na pasta raiz
